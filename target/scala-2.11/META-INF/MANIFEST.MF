@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: hello-world
+Implementation-Version: 1.0
+Specification-Vendor: ch.epfl.scala
+Specification-Title: hello-world
+Implementation-Vendor-Id: ch.epfl.scala
+Specification-Version: 1.0
+Implementation-Vendor: ch.epfl.scala
+Main-Class: Main
+
